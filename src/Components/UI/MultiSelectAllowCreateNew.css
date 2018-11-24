@@ -1,0 +1,24 @@
+
+
+#mySelect .css-ik6y5r .css-11unzgr .css-1gl4k7y{
+    display: none;
+}
+
+#mySelect .css-ik6y5r .css-11unzgr .css-1gl4k7y.addNewOptionButton{
+    display: block;
+}
+
+#mySelect .css-ik6y5r .css-11unzgr .addNewOptionButton{
+    color: hsl(0,0%,60%);
+    padding: 8px 12px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+#mySelect .css-ik6y5r .css-11unzgr .addNewOptionButton:hover{
+    cursor: pointer;
+}
+
+#mySelect .css-ik6y5r .css-11unzgr .addNewOptionButton.hidden{
+    display: none;
+}
